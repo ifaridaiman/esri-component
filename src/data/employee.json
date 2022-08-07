@@ -1,0 +1,142 @@
+[
+    {
+        "deptId":1,
+        "deptName":"PS",
+        "medianSalary":2500,
+        "maxSalary":4500,
+        "minSalary":2000,
+        "employees":[
+            {"testId":"001","empName":"abu","designation":"Solution Engineer","salary":1000},
+            {"testId":"002","empName":"samah","designation":"Solution Engineer","salary":2000},
+            {"testId":"003","empName":"salman","designation":"Solution Engineer","salary":3000},
+            {"testId":"004","empName":"saedah","designation":"Solution Engineer","salary":4000},
+            {"testId":"005","empName":"siti","designation":"Solution Engineer","salary":5000} 
+        ] 
+    },
+    {
+        "deptId":2,
+        "deptName":"Devs",
+        "medianSalary":3500,
+        "maxSalary":2500,
+        "minSalary":1000,
+        "employees":[
+            {"testId":"006","empName":"abu","designation":"Solution Engineer"},
+            {"testId":"007","empName":"samah","designation":"Solution Engineer"},
+            {"testId":"008","empName":"salman","designation":"Solution Engineer"},
+            {"testId":"009","empName":"saedah","designation":"Solution Engineer"},
+            {"testId":"010","empName":"siti","designation":"Solution Engineer"} 
+        ] 
+    },
+    {
+        "deptId":3,
+        "deptName":"ABCs",
+        "medianSalary":7500,
+        "maxSalary":5500,
+        "minSalary":2000,
+        "employees":[
+            {"testId":"011","empName":"abu","designation":"Solution Engineer"},
+            {"testId":"012","empName":"samah","designation":"Solution Engineer"},
+            {"testId":"013","empName":"salman","designation":"Solution Engineer"},
+            {"testId":"014","empName":"saedah","designation":"Solution Engineer"},
+            {"testId":"015","empName":"siti","designation":"Solution Engineer"} 
+        ] 
+        
+    },
+    {
+        "deptId":4,
+        "deptName":"DEFs",
+        "medianSalary":9000,
+        "maxSalary":9500,
+        "minSalary":10000,
+        "employees":[
+            {"testId":"016","empName":"abu","designation":"Solution Engineer"},
+            {"testId":"017","empName":"samah","designation":"Solution Engineer"},
+            {"testId":"018","empName":"salman","designation":"Solution Engineer"},
+            {"testId":"019","empName":"saedah","designation":"Solution Engineer"},
+            {"testId":"020","empName":"siti","designation":"Solution Engineer"} 
+        ] 
+    },
+    {
+        "deptId":5,
+        "deptName":"GHIs",
+        "medianSalary":2200,
+        "maxSalary":4000,
+        "minSalary":2000,
+        "employees":[
+            {"testId":"021","empName":"abu","designation":"Solution Engineer"},
+            {"testId":"022","empName":"samah","designation":"Solution Engineer"},
+            {"testId":"023","empName":"salman","designation":"Solution Engineer"},
+            {"testId":"024","empName":"saedah","designation":"Solution Engineer"},
+            {"testId":"025","empName":"siti","designation":"Solution Engineer"} 
+        ] 
+    },
+    {
+        "deptId":6,
+        "deptName":"JKLs",
+        "medianSalary":2500,
+        "maxSalary":4500,
+        "minSalary":2000,
+        "employees":[
+            {"testId":"026","empName":"abu","designation":"Solution Engineer"},
+            {"testId":"027","empName":"samah","designation":"Solution Engineer"},
+            {"testId":"028","empName":"salman","designation":"Solution Engineer"},
+            {"testId":"029","empName":"saedah","designation":"Solution Engineer"},
+            {"testId":"030","empName":"siti","designation":"Solution Engineer"} 
+        ] 
+    },
+    {
+        "deptId":7,
+        "deptName":"MNOs",
+        "medianSalary":2500,
+        "maxSalary":4500,
+        "minSalary":2000,
+        "employees":[
+            {"testId":"031","empName":"abu"},
+            {"testId":"032","empName":"samah"},
+            {"testId":"033","empName":"salman"},
+            {"testId":"034","empName":"saedah"},
+            {"testId":"035","empName":"siti"} 
+        ] 
+    },
+    {
+        "deptId":8,
+        "deptName":"PQR",
+        "medianSalary":2500,
+        "maxSalary":4500,
+        "minSalary":2000,
+        "employees":[
+            {"testId":"036","empName":"abu"},
+            {"testId":"037","empName":"samah"},
+            {"testId":"038","empName":"salman"},
+            {"testId":"039","empName":"saedah"},
+            {"testId":"040","empName":"siti"} 
+        ] 
+    },
+    {
+        "deptId":9,
+        "deptName":"STU",
+        "medianSalary":2500,
+        "maxSalary":4500,
+        "minSalary":2000,
+        "employees":[
+            {"testId":"041","empName":"abu"},
+            {"testId":"042","empName":"samah"},
+            {"testId":"043","empName":"salman"},
+            {"testId":"044","empName":"saedah"},
+            {"testId":"045","empName":"siti"} 
+        ] 
+    },
+    {
+        "deptId":10,
+        "deptName":"VWX",
+        "medianSalary":2500,
+        "maxSalary":4500,
+        "minSalary":2000,
+        "employees":[
+            {"testId":"046","empName":"abu"},
+            {"testId":"047","empName":"samah"},
+            {"testId":"048","empName":"salman"}
+
+        ] 
+    }
+]
